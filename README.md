@@ -5,4 +5,4 @@ Este repositório é apenas pra descontrair (ou não ), com alguns testes que fi
 
 ## Prints
 
-![Print Função para validar CPF]![alt text](https://raw.githubusercontent.com/madrollan/programador-inteligente/main/prints/validarCPF.jpg)
+![Print Função para validar CPF]! [alt text](https://raw.githubusercontent.com/madrollan/programador-inteligente/main/prints/validarCPF.jpg)
