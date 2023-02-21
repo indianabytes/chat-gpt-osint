@@ -1,4 +1,4 @@
-# programador-inteligente
+# nao-sei-programar
 Brincando com o ChatGPT
 
 Este repositório é apenas pra descontrair (ou não ), com alguns testes que fiz pra demonstrar que não sei nada de programação e o tal do chat é bom mesmo!
